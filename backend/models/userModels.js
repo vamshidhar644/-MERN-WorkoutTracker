@@ -63,7 +63,6 @@ userSchema.statics.login = async function(email, password){
     }
 
     return user
-
 }
 
 
